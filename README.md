@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahak Majeed</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<h6 align="center">I'm a Software engineer specializing in Angular, TypeScript, React, JavaScript, Bootstrap, PrimeNG, CSS, Sass, and Tailwind CSS. Passionate about crafting efficient and scalable solutions to real-world problems. Constantly learning and exploring new technologies. Advocate for open-source collaboration and community-driven development. Let's connect and code together to build a better future! 💻🚀</h6>
+<h5 align="center">I'm a Software engineer specializing in Angular, TypeScript, React, JavaScript, Bootstrap, PrimeNG, CSS, Sass, and Tailwind CSS. Passionate about crafting efficient and scalable solutions to real-world problems. Constantly learning and exploring new technologies. Advocate for open-source collaboration and community-driven development. Let's connect and code together to build a better future! 💻🚀</h5>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahakMajeed" alt="MahakMajeed" /></a> </p>
 
@@ -17,6 +17,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahakMajeed&show_icons=true&locale=en&layout=compact" alt="MahakMajeed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahakMajeed&" alt="MahakMajeed" /></p>
+
 
 
 <!--
