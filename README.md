@@ -18,13 +18,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahakMajeed&" alt="MahakMajeed" /></p>
 
-### 🏆 Achievements
-![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
-![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)
-
-
-
 
 <!--
 **MahakMajeed/mahakmajeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
